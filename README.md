@@ -4,12 +4,14 @@
 
 ## Available Scripts
 
-To create database fields 
+To create database tables 
 ## npx sequelize-cli db:migrate
 
-To run seed files run
+To run seed files
 ## npx sequelize-cli db:seed:all
 
+To start the server
+## yarn dev
 In the project directory, you can run:
 
 ### `yarn dev`
